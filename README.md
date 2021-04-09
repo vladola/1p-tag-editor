@@ -11,7 +11,7 @@ After the first sign-in:
 
 ## How to run the script
 
-After installing the dependencies (see pipfile), first you need to sign-in (execute the commands above) in the same terminal from which you're going to run the script, otherwise the environment will be different and it would look like you're not signed-in.
+After installing the dependencies (see pip-file), first you need to sign-in (execute the commands above) in the same terminal from which you're going to run the script, otherwise the environment will be different and it would look like you're not signed-in.
 
 Here's the help from the script:
 
